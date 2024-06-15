@@ -39,7 +39,7 @@ Este projeto não possui uma licença específica.
 
 ## Motivos
 
-O trabalho está sendo desenvolvido como atividade para a matéria de Desenvolvimento Front-end da Faculdade Senac Localizada na cidade de Jaraguá do Sul.
+O trabalho está sendo desenvolvido como atividade para a matéria de Desenvolvimento Front-end da [Faculdade Senac](https://www.sc.senac.br/cursotecnico/#header) Localizada na cidade de Jaraguá do Sul.
 
 ## Agradecimentos
 Gostaria de expressar minha profunda gratidão à [**Mestra Professora Karen Andressa Carvalho**](https://www.linkedin.com/in/karen-carvalho-55873128/) por seu apoio e orientação durante o desenvolvimento deste projeto. Sua dedicação e paixão pelo ensino de front-end foram uma fonte de inspiração constante. Este projeto não teria sido possível sem o seu valioso conhecimento e encorajamento. Uma parte dedicada ao agradecimento à [**Mestra Professora Karen Andressa Carvalho**](https://www.linkedin.com/in/karen-carvalho-55873128/) neste documento é uma pequena forma de demonstrar minha profunda gratidão.
