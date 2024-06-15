@@ -35,7 +35,7 @@ Este é um projeto solo desenvolvido por Davi Padilha. Contribuições externas 
 Este projeto não possui uma licença específica.
 
 ## Autores
-- **Davi Padilha*
+- **Davi Padilha**
 
 ## Motivos
 
